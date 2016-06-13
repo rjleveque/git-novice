@@ -11,3 +11,5 @@ Maintainers:
 
 * [Ivan Gonzalez](http://software-carpentry.org/team/#gonzalez_ivan)
 * [Daisie Huang](http://software-carpentry.org/team/#huang_daisie)
+
+You can find the rendered lesson materials [here](http://uwescience.github.io/git-novice/).
